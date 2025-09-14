@@ -55,7 +55,7 @@ const Header = () => {
                 isScrolled ? "text-primary" : "text-white"
               }`}
             >
-              BizConnect
+              
             </a>
           </div>
 
